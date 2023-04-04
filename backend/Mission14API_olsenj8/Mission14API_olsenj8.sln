@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission14API_olsenj8", "Mission14API_olsenj8.csproj", "{EDA60312-DDA8-4CD4-B4BB-040F336C5177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA60312-DDA8-4CD4-B4BB-040F336C5177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA60312-DDA8-4CD4-B4BB-040F336C5177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA60312-DDA8-4CD4-B4BB-040F336C5177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA60312-DDA8-4CD4-B4BB-040F336C5177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD82D72B-EE33-4A56-AE15-6838043B6E63}
+	EndGlobalSection
+EndGlobal
